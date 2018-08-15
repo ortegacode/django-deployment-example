@@ -26,7 +26,7 @@ SECRET_KEY = '876uz6js9)bka3prpcqd27cpf^3mv=*8*h7adk#@mhm9lm7u(6'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'community.pythonanywhere.com',
+    'jortega34.pythonanywhere.com',
 ]
 
 
